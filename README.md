@@ -1,6 +1,6 @@
 - 👋 Hi, I am Tokee Joseph Rozario
 - 👀 I’m interested in Fintech Technology 
-- 💞️ I’m looking to collaborate on payment system(MFS,PSP,PSO)
+- 💞️ I’m looking to collaborate on payment system(Bank,Payment gateway,Crad,MFS,PSP,PSO)
 - 📫 rozariotokee@gmail.com
 
 <!---
