@@ -1,6 +1,7 @@
 - 👋 Hi, I am Tokee Joseph Rozario
-- 👀 I’m interested in Fintech Technology 
-- 💞️ I’m looking to collaborate on payment system(Bank,Payment gateway,Crad,MFS,PSP,PSO)
+- 👀 Software Engineer with experience in backend development.
+- 🚀 Interested in building scalable applications, APIs, and secure transaction platforms
+- 💞️ Open to collaborating on banking, payment, healthcare, ERP, and integration systems
 - 📫 rozariotokee@gmail.com
 
 <!---
